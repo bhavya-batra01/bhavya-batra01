@@ -67,7 +67,7 @@
 
 ## 💼 Work Experience
 
-**SEO Marketing Solutions** — Web Development Intern *(Present)*
+**Quartz Marketing Solutions** — Web Development Intern *(Present)*
 
 - Developed responsive interfaces using React.js, Tailwind CSS, and JavaScript.
 - Implemented dashboards and data visualizations using Recharts.
@@ -98,9 +98,11 @@
 
 ## 📜 Certifications
 
-- Web Development Internship — SEO Marketing Solutions
+- Web Development Internship — Quartz Marketing Solutions
 - Web Development Internship — SaiKet Systems
 - MERN Stack Development Internship — ULB, Panchkula
+- DSA with Java - Apna College
+- AI Tools Workshop - Be10X
 
 ---
 
