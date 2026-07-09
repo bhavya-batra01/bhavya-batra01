@@ -65,32 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhavya-batra01&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya-batra01&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-batra01&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bhavya-batra01&theme=onestar&no-frame=true"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-</p>
-
----
-
 ## 💼 Work Experience
 
 **SEO Marketing Solutions** — Web Development Intern *(Present)*
